@@ -36,7 +36,7 @@ public class TicTacToeDesign extends JFrame {
         setLocationRelativeTo(null);
 
         // LOAD BACKGROUND IMAGE
-        bgImage = new ImageIcon("E:/MCA JAVA MINI PROJECT/TIC TAC TOE/bg.png").getImage();
+        bgImage = new ImageIcon("bg.png").getImage();
 
 
         // CARDLAYOUT CONTAINER
